@@ -1,5 +1,3 @@
-# Styloan
-แพลตฟอร์มรวบรวมร้านเช่าชุด
 <!DOCTYPE html>
 <html lang="th">
 <head>
